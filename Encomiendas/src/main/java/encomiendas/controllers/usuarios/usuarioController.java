@@ -58,15 +58,15 @@ public class usuarioController implements ActionListener{
                 }
                 
                 if(rol.equals("Administrador")){
-                    JOptionPane.showMessageDialog(null, "hola soy un Administrador");
+                    JOptionPane.showMessageDialog(null, "Bienvenido Administrador");
                 }
                 
                 if(rol.equals("Conductor")){
-                    JOptionPane.showMessageDialog(null, "hola soy un Conductor");
+                    JOptionPane.showMessageDialog(null, "Bienvenido Conductor");
                     
                 }
                 if(rol.equals("Agencia")){
-                    JOptionPane.showMessageDialog(null, "hola soy un Conductor");
+                    JOptionPane.showMessageDialog(null, "Bienvenido Conductor");
                     
                 }
                 
